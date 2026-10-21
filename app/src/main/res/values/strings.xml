@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Quranify</string>
+    <string name="webview_description">واجهة تطبيق Quranify بالزجاج السائل</string>
+    <string name="share_card_title">مشاركة البطاقة القرآنية من Quranify</string>
+    <string name="card_saved_toast">تم حفظ البطاقة المصورة في المعرض بنجاح ✓</string>
+</resources>

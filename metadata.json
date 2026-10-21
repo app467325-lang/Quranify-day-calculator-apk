@@ -1,0 +1,6 @@
+{
+  "name": "Quranify",
+  "description": "مشغل القرآن الكريم بالزجاج السائل مع تزامن الآيات بالذكاء الاصطناعي، المرافق الإيماني، مواقيت الصلاة، الإذاعة المباشرة، والأذكار",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
